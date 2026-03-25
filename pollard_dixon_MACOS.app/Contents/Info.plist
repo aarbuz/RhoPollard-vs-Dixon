@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>pollard_dixon</string>
+	<key>CFBundleExecutable</key>
+	<string>pollard_dixon</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-bf7021213c97d3d5a24d7d18a01bec7154f02f3d3077f63420db4079a66ff714.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>pollard_dixon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>pollard_dixon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
